@@ -23,4 +23,4 @@ for this objective user can download the repository from git and then extract th
 ## Take A look :
 This Project is hosted live at (https://placement-cell-jcbf.onrender.com) tap here for quick review of my project.
 
-Git Hub (https://github.com/RASOOL-SHAIK/placement-cell)
+Git Hub (https://github.com/veenabakale1022/Placement_Cell)
