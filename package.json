@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RASOOL-SHAIK/placement-cell.git"
+    "url": "git+https://github.com/veenabakale1022/placement-cell.git"
   },
   "author": "Rasool Shaik",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RASOOL-SHAIK/placement-cell/issues"
+    "url": "https://github.com/veenabakale1022/placement-cell/issues"
   },
-  "homepage": "https://github.com/RASOOL-SHAIK/placement-celll#readme",
+  "homepage": "https://github.com/veenabakale1022/placement-celll#readme",
   "dependencies": {
     "connect-flash": "^0.1.1",
     "connect-mongo": "^4.6.0",
